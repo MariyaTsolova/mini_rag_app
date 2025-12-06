@@ -1,0 +1,8 @@
+streamlit
+sentence-transformers
+torch
+psycopg2-binary
+pgvector
+numpy
+scikit-learn
+transformers
